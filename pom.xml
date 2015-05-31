@@ -38,6 +38,7 @@
 	</dependencies>
 	
 	<build>
+		<finalName>simple-service</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
